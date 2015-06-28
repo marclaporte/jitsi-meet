@@ -5,7 +5,7 @@ Jitsi Meet supports logging to an [InfluxDB](http://influxdb.com/) database.
 The following needs to be done to enable this functionality.
 
 ## Install InfluxDB
-The details are outside the scope of the document, see http://influxdb.com/download/ .
+The details are outside the scope of the document, see https://influxdb.com/download/index.html .
 
 ## Create an InfluxDB database
 Use the InfluxDB admin interface (running on port 8083) and create a database. In this example we name it <code>jitsi_database</code>
